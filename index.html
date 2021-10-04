@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akali Website Landing Page</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="imagex/png" href="./img/icon.ico">
+</head>
+<body>
+    <section class="sec">
+         <header>
+            <a href="#"><img src="img/lol-icon.png" class="logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Champions</a></li>
+                <li><a href="#">What's New</a></li>
+                <li><a href="#">Newsletter</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+         </header>
+         <div class="content">
+             <div class="textBox">
+                <h2>From Ionia:<br><span>Akali</h2>
+                <p>Abandoning the Kinkou Order and her title of Fist of Shadows, Akali now attacks alone, ready to be the deadly weapon her people need. While keeping everything she learned from her master Shen, she is committed to defending Ionia from her enemies, one murder at a time. Akali may attack silently, but her message will be heard loud and clear: fear the masterless assassin.</p>
+                <a href="#">View all story</a>
+             </div>
+             <div class="imgBox">
+                 <img src="img/akali.png" class="akali1">
+             </div>
+         </div>  
+         <ul class="thumb">
+             <li><img src="img/akali.png" onmouseover="imgSlider('img/akali.png');changeBgColor('#1e1e1e')"></li>
+             <li><img src="img/akali2.png" onmouseover="imgSlider('img/akali2.png');changeBgColor('#e60c2c')"></li>
+             <li><img src="img/akali3.png" onmouseover="imgSlider('img/akali3.png');changeBgColor('#663399')"></li>
+             <li><img src="img/akali4.png" onmouseover="imgSlider('img/akali4.png');changeBgColor('#0062be')"></li>
+         </ul>
+         <ul class="sci">
+             <li><a href="#"><img src="img/facebook.png"></a></li>
+             <li><a href="#"><img src="img/twitter.png"></a></li>
+             <li><a href="#"><img src="img/instagram.png"></a></li>
+         </ul>
+    </section>
+    <script type="text/javascript">
+        function imgSlider(anything){
+            document.querySelector('.akali1').src = anything;
+        }
+        function changeBgColor(color){
+            const sec = document.querySelector('.sec');
+            sec.style.background = color;
+        }
+    </script>
+</body>
+</html>
