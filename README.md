@@ -6,13 +6,13 @@
 ![Classic Screenshot](/readme.image/akali1.png)
 
 ## Sashimi Akali
-![Sashimi Screenshot](/readme.image/akali2.png)
+![Sashimi Screenshot](/readme.image/akali.png)
 
 ## K/DA Akali
-![K/DA Screenshot](/readme.image/akali3.png)
+![K/DA Screenshot](/readme.image/akali.png)
 
 ## True Damage Akali
-![TRUE DAMAGE Screenshot](/readme.image/akali4.png)
+![TRUE DAMAGE Screenshot](/readme.image/akali.png)
 
 The purpose of my project was to practice pure CSS along with some Javascript functionality. I love the League Of Legends game so much, that's why I wanted to honor a champion from there!
 
