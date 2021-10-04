@@ -2,17 +2,17 @@
 
 ### Project made in HTML, Pure CSS3 and Javascript.
 
-## Desktop view - Akali Classic Skin
-![Screenshot Desktop](/readme.image/akali.png)
+## Akali Classic Skin
+![Classic Screenshot](/readme.image/akali1.png)
 
 ## Sashimi Akali
 ![Sashimi Screenshot](/readme.image/akali2.png)
 
 ## K/DA Akali
-![Sashimi Screenshot](/readme.image/akali3.png)
+![K/DA Screenshot](/readme.image/akali3.png)
 
 ## True Damage Akali
-![Sashimi Screenshot](/readme.image/akali4.png)
+![TRUE DAMAGE Screenshot](/readme.image/akali4.png)
 
 The purpose of my project was to practice pure CSS along with some Javascript functionality. I love the League Of Legends game so much, that's why I wanted to honor a champion from there!
 
